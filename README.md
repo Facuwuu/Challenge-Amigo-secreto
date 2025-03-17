@@ -66,3 +66,6 @@ Asi deberia verse la pagina index:
 
 ![amigui](https://github.com/user-attachments/assets/de249d94-a6ab-49f5-abe1-dd7d568f81c5)
 
+Comprobar con Vercel :
+https://challenge-amigo-secreto-one-virid.vercel.app/
+
